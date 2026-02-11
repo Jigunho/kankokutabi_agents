@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.thetrippick.com)",
+      "WebFetch(domain:popga.co.kr)",
+      "WebFetch(domain:www.globalepic.co.kr)",
+      "WebFetch(domain:www.pocheon.go.kr)"
+    ]
+  }
+}
