@@ -25,7 +25,7 @@
    - 2~3천자 내외
 
 ## Output Requirement
-- 결과물은 `content/post_KR_YYYYMMDD_{num}.md` 파일로 저장한다.
+- 결과물은 `results/blog_writer/'YYYYMMDD'_{num}.md` 파일로 저장한다.
 - 마크다운 형식을 준수한다 (헤더, 불렛포인트, 강조 등).
 
 ## Execution Policy
