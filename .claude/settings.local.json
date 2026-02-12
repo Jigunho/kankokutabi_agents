@@ -5,7 +5,14 @@
       "WebFetch(domain:www.thetrippick.com)",
       "WebFetch(domain:popga.co.kr)",
       "WebFetch(domain:www.globalepic.co.kr)",
-      "WebFetch(domain:www.pocheon.go.kr)"
+      "WebFetch(domain:www.pocheon.go.kr)",
+      "Bash(if not exist \"C:\\\\Users\\\\gh.ji\\\\kankokutabi_blog\\\\results\\\\blog_writer\" mkdir \"C:\\\\Users\\\\gh.ji\\\\kankokutabi_blog\\\\results\\\\blog_writer\")",
+      "Bash(ls:*)",
+      "WebFetch(domain:k-wavebible.com)",
+      "WebFetch(domain:polyglotpetra.com)",
+      "WebFetch(domain:the-edit.co.kr)",
+      "WebFetch(domain:www.eyesmag.com)",
+      "WebFetch(domain:informational520.com)"
     ]
   }
 }
