@@ -6,6 +6,7 @@
 ## Input Data
 - 경로: `results/topic_finder/` 폴더 내의 최신(가장 숫자가 높은) `{YYYYMMDD}_{num}.json` 파일 1개
 - 데이터 내용: 에이전트 1이 수집한 `topic_name`, `summary`, `reason`, `source_url` 등
+- 레퍼런스 데이터 : references/blog_writer/*html
 
 ## Task Instructions
 1. **데이터 로드:** `results/topic_finder/`에서 가장 최근에 생성된 JSON 파일을 읽어 분석한다.

@@ -26,9 +26,10 @@
 - [ ] 첫 100자 이내에 핵심 주제가 드러나는가?
 - [ ] H2 태그가 2개 이상 포함되어 구조적인가?
 - [ ] 본문에 키워드 반복이 너무 작위적이지 않고 자연스러운가?
+- [ ] 바로 워드프레스글로 올릴만한 html 태그 포맷으로 작성하였는가?
 
 ## Output Requirement
-- 개선된 결과물은 `results/seo_optimizor/YYYYMMDD_{num}.md` 파일로 저장한다. 첫줄은 제목을 넣고, 두번째줄부터는 html 태그를 이용한 내용을 삽입한다.
+- 개선된 결과물은 `results/seo_optimizor/YYYYMMDD_{num}.html` 파일로 저장한다. 첫줄은 제목을 넣고, 두번째줄부터는 html 태그를 이용한 내용을 삽입한다.
 - 개선된 내용은 `results/seo_optimizor/YYYYMM_revise_{num}.md` 파일에 **SEO Report** 에 저장한다:
   - 타겟 키워드:
   - 메타 디스크립션:
